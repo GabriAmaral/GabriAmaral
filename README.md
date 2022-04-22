@@ -36,6 +36,8 @@
 
 <br/>
 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
 [![Linkedin: Gabriel Amaral](https://img.shields.io/badge/-gabrielfamaral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielf-amaral)](https://www.linkedin.com/in/gabrielf-amaral)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.felipe.amaral@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.felipe.amaral@hotmail.com)](mailto:gabriel.felipe.amaral@hotmail.com)
 
