@@ -5,7 +5,6 @@
 - 🌱 Estutando Python, JavaScript, CSS e Kotlin
 - 🤔 Explorando conhecimento em novas tecnlogias
 - 👀 Buscando oportunidades de Estagio, Trainee ou Desenvolvedor Junior 
-- 📫 gabriel.felipe.amaral@hotmail.com
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
