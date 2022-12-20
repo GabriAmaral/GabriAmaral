@@ -1,10 +1,10 @@
 🙇‍♂️  Sobre mim
 
-- 💼 Hoje trabalho com Contabilidade - Especialista Contábil
+- 💼 Experiencia em Contabilidade - Especialista Contábil
+- 💼 Desenvolvedor Junior full-stack - Empresa HubCount
 - 👨‍🎓 Graduando Analise Desenvovimento de Sistema - Faculdade Impacta
-- 🌱 Estutando Python, JavaScript, CSS e Kotlin
+- 🌱 Estutando C#, React, Angular
 - 🤔 Explorando conhecimento em novas tecnlogias
-- 👀 Buscando oportunidades de Estagio, Trainee ou Desenvolvedor Junior 
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -16,6 +16,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
   
   **DevOps**
 
